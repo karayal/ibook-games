@@ -1,0 +1,11 @@
+@extends('ibook.layouts.app')
+@section('title', 'Explore Games')
+@section('content')
+@php
+$subjects=['Shapes','Counting','Addition','Subtraction','Multiplication','Division','Integers','Money','Time','Decimals','Fractions','Ratio & Proportion','Algebra','Language','Arts','Spelling','Typing','Geography'];
+@endphp
+<section class="page-banner banner-games"><div class="container"><span class="tiny-label">🎮 YOUR NEXT ADVENTURE</span><h1>Explore All Games</h1><p>Discover all 60 educational games. Search, filter, and find something fun.</p></div><div class="banner-emoji">🚀</div></section>
+<div class="container catalog-container"><aside class="filter-panel"><div class="panel-heading"><h3>🎛 Filters</h3><button class="clear-filter" type="button" id="clearFilter">Clear</button></div><strong class="filter-title">Subject</strong><label class="filter-radio"><input type="radio" name="subject" value="All" checked>All Games <small>(60)</small></label>
+@foreach($subjects as $subject)<label class="filter-radio"><input type="radio" name="subject" value="{{ $subject }}">{{ $subject }} <small>({{ $games->where('subject',$subject)->count() }})</small></label>@endforeach</aside>
+<section class="catalog-main"><div class="toolbar"><label class="search-wrap">⌕ <input type="search" id="gameSearch" placeholder="Search games by name..." aria-label="Search games"></label><label class="sort-wrap">Sort by <select id="sortGames"><option value="default">Catalog Order</option><option value="az">Title A–Z</option><option value="za">Title Z–A</option></select></label></div><div class="catalog-summary"><strong><span id="resultCount">60</span> Games Found</strong><span id="activeFilterLabel">All Subjects</span></div><div class="filter-chips"><button class="filter-chip active" type="button" data-filter="All">All Subjects</button>@foreach($subjects as $subject)<button class="filter-chip" type="button" data-filter="{{ $subject }}">{{ $subject }}</button>@endforeach</div><div class="games-grid catalog-grid" id="catalogGrid">@foreach($games as $game)@include('ibook.components.game-card',['game'=>$game])@endforeach</div><div id="emptyResults" class="empty-results" hidden><span>🕹️</span><h3>No games found</h3><p>Try another name or subject.</p></div><div class="pagination" id="pagination"></div></section></div>
+@endsection

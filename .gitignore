@@ -1,0 +1,14 @@
+# Generated build and integration copies
+/dist/
+/laravel-blade/public/ibook-assets/
+
+# Local hosting association, dependencies and private configuration
+/.openai/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+.DS_Store
+Thumbs.db

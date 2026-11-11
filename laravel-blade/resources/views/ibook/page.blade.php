@@ -1,0 +1,1 @@
+@extends('ibook.layouts.app')

@@ -1,0 +1,55 @@
+[
+  {
+    "asset": "quality/hero-desktop.webp",
+    "prompt": "Use case: identity-preserve / compositing. Reframe this exact generated hero as a VERY WIDE 2.5:1 landscape website background (approximately 2560x1024 composition). Preserve the same boy astronaut, girl astronaut and glasses-wearing orange cat, their faces, white/purple suits, pose and polished 3D visual quality. Do not redesign their identities. Keep the character group in the right half with every face and the books clearly visible; keep the rocket and Earth in the upper-right region, with comfortable sky padding above them. Keep critical character artwork inside the middle 75 percent of the image height so a responsive website can crop a little from top/bottom. Extend the open LEFT 45 percent as smooth rich violet-to-blue space for real HTML text; purple clouds at top-left and a continuous purple alien landscape along the bottom. The top edge should begin violet and fade gently downward into the blue illustration over an extended upper band. No UI, webpage frames, headings, slogans, navigation or buttons. No text except the existing small iBOOK GAMES mark on the book. Crisp high-resolution production artwork with no blurry edges or compression artifacts.",
+    "references": [
+      "High-resolution hero identity reference"
+    ],
+    "dimensions": {
+      "width": 1983,
+      "height": 793
+    },
+    "mode": "built-in image_gen",
+    "encoding": "lossless WebP; native dimensions preserved"
+  },
+  {
+    "asset": "quality/hero-mobile.webp",
+    "prompt": "Use case: identity-preserve. Asset type: high-resolution mobile website hero illustration strip, wide 3:1 landscape. Image1 is the exact composition reference: yellow ringed planet on the left, small lime-green plus in the middle, smiling astronaut child's head in a purple/white helmet on the right, tiny twinkling stars over purple-to-blue space. Image2 is a high-resolution identity/style reference for this same brown-haired astronaut boy. Rebuild Image1 crisply using Image2's facial identity, hairstyle, suit/helmet details and polished friendly 3D animated style. Keep the boy's whole face visible on the right half, planet wholly visible on the left, open air between; do not make the face or planet oversized or crop them at the frame. Deep purple top edge should blend gently down into the blue illustration over a longer soft band. Crisp edges, smooth clean shading, no blur or pixelation. No text, UI, headings, logo, border, watermark or buttons. This is a website artwork strip only.",
+    "references": [
+      "design/mobile-hero.png",
+      "High-resolution hero identity reference"
+    ],
+    "dimensions": {
+      "width": 2172,
+      "height": 724
+    },
+    "mode": "built-in image_gen",
+    "encoding": "lossless WebP; native dimensions preserved"
+  },
+  {
+    "asset": "quality/catalog-banner.webp",
+    "prompt": "Use case: stylized-concept / precise-object-edit. Asset type: high-resolution educational gaming website banner illustration, very wide 3:1 landscape. Faithfully rebuild the reference's glossy purple game controller floating on soft white clouds, with colorful yellow and blue controls, a cheerful pink/white rocket flying upward on the right with orange flame, golden stars and sparkles against bright blue/cyan sky. Keep the same friendly polished 3D toy style and composition. Enlarge detail and edge clarity; remove pixelation. Leave a little open space at the left edge for blending into the website's blue gradient; keep both controller and rocket complete and within the middle 65 percent of the image height for responsive cropping. No typography, no title, no webpage components, no real interface, no watermark. Full-bleed illustration only.",
+    "references": [
+      "design/catalog-art.png"
+    ],
+    "dimensions": {
+      "width": 2172,
+      "height": 724
+    },
+    "mode": "built-in image_gen",
+    "encoding": "lossless WebP; native dimensions preserved"
+  },
+  {
+    "asset": "quality/school-banner.webp",
+    "prompt": "Use case: precise-object-edit / stylized-concept. Asset type: high-resolution 3D educational website school banner illustration, wide 2.5:1 landscape. Faithfully recreate the reference's friendly colorful school building with warm yellow walls, bright blue central doorway and windows, orange roof and small clock/bell detail, white sign reading SCHOOL above the entrance, bright green rounded trees, shrubs, grassy foreground and gentle cyan sky with puffy clouds. Keep the building front-facing and visually close to this exact reference, with no additional people, animals, vehicles or new buildings. Rebuild all edges and architectural details crisply in the same premium rounded 3D toy style. Full-bleed art with soft cyan edges for blending into a website banner. Only the small SCHOOL sign is text; no title, UI, banner caption, button, border or watermark.",
+    "references": [
+      "design/school-art.png"
+    ],
+    "dimensions": {
+      "width": 1983,
+      "height": 793
+    },
+    "mode": "built-in image_gen",
+    "encoding": "lossless WebP; native dimensions preserved"
+  }
+]

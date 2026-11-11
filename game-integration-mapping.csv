@@ -1,0 +1,61 @@
+﻿game_id,title,slug,provisional_subject,verified_subject,verified_grades,verified_age,html5_play_url_or_public_asset_path,cover_file,instructions,learning_objectives,integration_status
+1,Grand Prix Multiplication,grand-prix-multiplication,Multiplication,,,,,assets/covers/grand-prix-multiplication.webp,,,Needs source game bundle
+2,Space Race,space-race,Counting,,,,,assets/covers/space-race.webp,,,Needs source game bundle
+3,Penguin Jump,penguin-jump,Counting,,,,,assets/covers/penguin-jump.webp,,,Needs source game bundle
+4,Tractor Multiplication,tractor-multiplication,Multiplication,,,,,assets/covers/tractor-multiplication.webp,,,Needs source game bundle
+5,Canoe Penguins,canoe-penguins,Math Games,,,,,assets/covers/canoe-penguins.webp,,,Needs source game bundle
+6,Meteor Multiplication,meteor-multiplication,Multiplication,,,,,assets/covers/meteor-multiplication.webp,,,Needs source game bundle
+7,Drag Race Division,drag-race-division,Division,,,,,assets/covers/drag-race-division.webp,,,Needs source game bundle
+8,Pony Division,pony-division,Division,,,,,assets/covers/pony-division.webp,,,Needs source game bundle
+9,Division Derby,division-derby,Division,,,,,assets/covers/division-derby.webp,,,Needs source game bundle
+10,Demolition Division,demolition-division,Division,,,,,assets/covers/demolition-division.webp,,,Needs source game bundle
+11,Jet Ski Addition,jet-ski-addition,Addition,,,,,assets/covers/jet-ski-addition.webp,,,Needs source game bundle
+12,Kitten Match,kitten-match,Shapes,,,,,assets/covers/kitten-match.webp,,,Needs source game bundle
+13,Canoe Puppies,canoe-puppies,Math Games,,,,,assets/covers/canoe-puppies.webp,,,Needs source game bundle
+14,Tugboat Addition,tugboat-addition,Addition,,,,,assets/covers/tugboat-addition.webp,,,Needs source game bundle
+15,Alien Addition,alien-addition,Addition,,,,,assets/covers/alien-addition.webp,,,Needs source game bundle
+16,Island Chase Subtraction,island-chase-subtraction,Subtraction,,,,,assets/covers/island-chase-subtraction.webp,,,Needs source game bundle
+17,Ducky Race,ducky-race,Counting,,,,,assets/covers/ducky-race.webp,,,Needs source game bundle
+18,Sailboat Subtraction,sailboat-subtraction,Subtraction,,,,,assets/covers/sailboat-subtraction.webp,,,Needs source game bundle
+19,Minus Mission,minus-mission,Subtraction,,,,,assets/covers/minus-mission.webp,,,Needs source game bundle
+20,Tandem Turtles,tandem-turtles,Counting,,,,,assets/covers/tandem-turtles.webp,,,Needs source game bundle
+21,Space Jaunt,space-jaunt,Math Games,,,,,assets/covers/space-jaunt.webp,,,Needs source game bundle
+22,Ratio Blaster,ratio-blaster,Ratio & Proportion,,,,,assets/covers/ratio-blaster.webp,,,Needs source game bundle
+23,Ratio Stadium,ratio-stadium,Ratio & Proportion,,,,,assets/covers/ratio-stadium.webp,,,Needs source game bundle
+24,Ratio Martian,ratio-martian,Ratio & Proportion,,,,,assets/covers/ratio-martian.webp,,,Needs source game bundle
+25,Dirt Bike Proportions,dirt-bike-proportions,Ratio & Proportion,,,,,assets/covers/dirt-bike-proportions.webp,,,Needs source game bundle
+26,Snow Sprint,snow-sprint,Math Games,,,,,assets/covers/snow-sprint.webp,,,Needs source game bundle
+27,Speedway,speedway,Math Games,,,,,assets/covers/speedway.webp,,,Needs source game bundle
+28,Dirt Bike Comparing Fraction,dirt-bike-comparing-fraction,Fractions,,,,,assets/covers/dirt-bike-comparing-fraction.webp,,,Needs source game bundle
+29,Pizza Pandas,pizza-pandas,Fractions,,,,,assets/covers/pizza-pandas.webp,,,Needs source game bundle
+30,Puppy Chase,puppy-chase,Counting,,,,,assets/covers/puppy-chase.webp,,,Needs source game bundle
+31,Hungry Puppies,hungry-puppies,Math Games,,,,,assets/covers/hungry-puppies.webp,,,Needs source game bundle
+32,Puppy Pull,puppy-pull,Counting,,,,,assets/covers/puppy-pull.webp,,,Needs source game bundle
+33,Otter Rush,otter-rush,Counting,,,,,assets/covers/otter-rush.webp,,,Needs source game bundle
+34,Swimming Otters,swimming-otters,Math Games,,,,,assets/covers/swimming-otters.webp,,,Needs source game bundle
+35,Martian Hoverboards,martian-hoverboards,Math Games,,,,,assets/covers/martian-hoverboards.webp,,,Needs source game bundle
+36,Four Wheel Fracas,four-wheel-fracas,Math Games,,,,,assets/covers/four-wheel-fracas.webp,,,Needs source game bundle
+37,Jumping Aliens,jumping-aliens,Counting,,,,,assets/covers/jumping-aliens.webp,,,Needs source game bundle
+38,Skateboard Pups,skateboard-pups,Math Games,,,,,assets/covers/skateboard-pups.webp,,,Needs source game bundle
+39,Spider Match,spider-match,Shapes,,,,,assets/covers/spider-match.webp,,,Needs source game bundle
+40,Orbit Integers,orbit-integers,Integers,,,,,assets/covers/orbit-integers.webp,,,Needs source game bundle
+41,Integer Warp,integer-warp,Integers,,,,,assets/covers/integer-warp.webp,,,Needs source game bundle
+42,Jumping Chicks,jumping-chicks,Counting,,,,,assets/covers/jumping-chicks.webp,,,Needs source game bundle
+43,Koala Karts,koala-karts,Math Games,,,,,assets/covers/koala-karts.webp,,,Needs source game bundle
+44,Kangaroo Hop,kangaroo-hop,Counting,,,,,assets/covers/kangaroo-hop.webp,,,Needs source game bundle
+45,Giraffe Dash,giraffe-dash,Counting,,,,,assets/covers/giraffe-dash.webp,,,Needs source game bundle
+46,Giraffe Pull,giraffe-pull,Counting,,,,,assets/covers/giraffe-pull.webp,,,Needs source game bundle
+47,Spelling Bees,spelling-bees,Spelling,,,,,assets/covers/spelling-bees.webp,,,Needs source game bundle
+48,Koala Paddleboards,koala-paddleboards,Math Games,,,,,assets/covers/koala-paddleboards.webp,,,Needs source game bundle
+49,Kitten Hop,kitten-hop,Counting,,,,,assets/covers/kitten-hop.webp,,,Needs source game bundle
+50,Turtle Dash,turtle-dash,Counting,,,,,assets/covers/turtle-dash.webp,,,Needs source game bundle
+51,Puppy Hop,puppy-hop,Counting,,,,,assets/covers/puppy-hop.webp,,,Needs source game bundle
+52,Furious Frogs,furious-frogs,Math Games,,,,,assets/covers/furious-frogs.webp,,,Needs source game bundle
+53,Elephant Feed,elephant-feed,Counting,,,,,assets/covers/elephant-feed.webp,,,Needs source game bundle
+54,Octopus Feed,octopus-feed,Counting,,,,,assets/covers/octopus-feed.webp,,,Needs source game bundle
+55,Bumper Boat Bash,bumper-boat-bash,Math Games,,,,,assets/covers/bumper-boat-bash.webp,,,Needs source game bundle
+56,Country Toad,country-toad,Geography,,,,,assets/covers/country-toad.webp,,,Needs source game bundle
+57,Toad Hop,toad-hop,Counting,,,,,assets/covers/toad-hop.webp,,,Needs source game bundle
+58,Owl Planes,owl-planes,Math Games,,,,,assets/covers/owl-planes.webp,,,Needs source game bundle
+59,Typing Jets,typing-jets,Typing,,,,,assets/covers/typing-jets.webp,,,Needs source game bundle
+60,Sky Chase,sky-chase,Counting,,,,,assets/covers/sky-chase.webp,,,Needs source game bundle

@@ -1,0 +1,609 @@
+{
+  "mode": "native image_gen artwork; WebP delivery encoding only",
+  "count": 60,
+  "native_lossless_bytes": 112985212,
+  "delivery_bytes": 27192428,
+  "reduction_percent": 75.9,
+  "assets": [
+    {
+      "slug": "pizza-pandas",
+      "asset": "quality/featured/pizza-pandas.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1821998,
+      "delivery_bytes": 463350,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "0c1271ceae059a41a4f641c88c50ea6e8ba8e179cd6b78f24833bf9cd95d9c1e"
+    },
+    {
+      "slug": "spelling-bees",
+      "asset": "quality/featured/spelling-bees.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1454344,
+      "delivery_bytes": 276996,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "4ad7f465a8fdaf621d71a13ba114e6a6ab52d4b03c5c29be821a10b1f766ac0a"
+    },
+    {
+      "slug": "turtle-dash",
+      "asset": "quality/featured/turtle-dash.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1946534,
+      "delivery_bytes": 467532,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "15e508809e335cf6a836d2bf62fb3f305d822d8505e6288d16a2a2957fb304dd"
+    },
+    {
+      "slug": "typing-jets",
+      "asset": "quality/featured/typing-jets.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1405260,
+      "delivery_bytes": 264326,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "a8374740c3d5b5823ad6140b221361919c9dd77ad5d904c0a3aba85e31711b8d"
+    },
+    {
+      "slug": "alien-addition",
+      "asset": "quality/covers/alien-addition.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1877388,
+      "delivery_bytes": 427054,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "923de1c20903527e7117459c08f9c4f3ec1c6d32d55b517b83b5319ef24b6d43"
+    },
+    {
+      "slug": "bumper-boat-bash",
+      "asset": "quality/covers/bumper-boat-bash.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2060554,
+      "delivery_bytes": 492958,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "5f483b794dd1fd30d47058056c83147b5187793a526a35be93e7e3cf124516a0"
+    },
+    {
+      "slug": "canoe-penguins",
+      "asset": "quality/covers/canoe-penguins.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2138844,
+      "delivery_bytes": 558098,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "afc48eaf37ec773528f8b84a5ba2bdb35ac877f264fd6bfd4bb5183e3fca93c4"
+    },
+    {
+      "slug": "canoe-puppies",
+      "asset": "quality/covers/canoe-puppies.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 2343480,
+      "delivery_bytes": 663336,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "7c9ea4fe654b37bf84680ff3ea117c8c74a5cea68f1a428629e38db0539ce4a5"
+    },
+    {
+      "slug": "country-toad",
+      "asset": "quality/covers/country-toad.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1839248,
+      "delivery_bytes": 398178,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "b611eb03962c3c10794376c67f407c9653faa669b018d6af1601944588adaa6e"
+    },
+    {
+      "slug": "demolition-division",
+      "asset": "quality/covers/demolition-division.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1776796,
+      "delivery_bytes": 420310,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "70dbfa87672d4d9d332836f94f66d47f9274daaa9ff803a41cd48a73b938bf94"
+    },
+    {
+      "slug": "dirt-bike-comparing-fraction",
+      "asset": "quality/covers/dirt-bike-comparing-fraction.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1739396,
+      "delivery_bytes": 437070,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "e67057bad4eb3fdfffc86794c4827f1ae245f15d21f4028f5b6685a5436c29d8"
+    },
+    {
+      "slug": "dirt-bike-proportions",
+      "asset": "quality/covers/dirt-bike-proportions.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 2054158,
+      "delivery_bytes": 541988,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "ece1a13406927380ac370700f563d42774afa88d36b6e4194250bc2e34ef2414"
+    },
+    {
+      "slug": "division-derby",
+      "asset": "quality/covers/division-derby.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1814778,
+      "delivery_bytes": 460062,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "842542b7910c970c853e89bbf8bfe57d6b6a535e2991c76ff9441eb0b48fcae7"
+    },
+    {
+      "slug": "drag-race-division",
+      "asset": "quality/covers/drag-race-division.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1902922,
+      "delivery_bytes": 467570,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "fe762b191f2d937afa7a61d155dbe106686c9271b781f5f9b4df63f76c40a73e"
+    },
+    {
+      "slug": "ducky-race",
+      "asset": "quality/covers/ducky-race.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1840286,
+      "delivery_bytes": 432960,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "67a45e282bd234b0268e08e46cbc532a4377cc1d5f889f2839512825a9a08728"
+    },
+    {
+      "slug": "elephant-feed",
+      "asset": "quality/covers/elephant-feed.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2016776,
+      "delivery_bytes": 488558,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "5f150e716988aa8df65997f744289aa048db50626fcccd97501c5c5137ced381"
+    },
+    {
+      "slug": "four-wheel-fracas",
+      "asset": "quality/covers/four-wheel-fracas.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 2150846,
+      "delivery_bytes": 571840,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "a06c4dd99c773e2695864dcaa177f60bfbdf73d307be409e97c71ed2ae2da77a"
+    },
+    {
+      "slug": "furious-frogs",
+      "asset": "quality/covers/furious-frogs.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1979466,
+      "delivery_bytes": 459204,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "cff50a8d33d87099d70363e12cad0906268d274e7e493ea89bb0451d0469cc94"
+    },
+    {
+      "slug": "giraffe-dash",
+      "asset": "quality/covers/giraffe-dash.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2330630,
+      "delivery_bytes": 623840,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "1b341747c26ebe9d02f3f92a318f264524b395f8b210536e52f1cffdba49a187"
+    },
+    {
+      "slug": "giraffe-pull",
+      "asset": "quality/covers/giraffe-pull.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2017132,
+      "delivery_bytes": 483760,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "0ac5b39ecc1143fb65e5466603ff584a7f31efdb7127cb382a0567084598b93d"
+    },
+    {
+      "slug": "grand-prix-multiplication",
+      "asset": "quality/covers/grand-prix-multiplication.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1535824,
+      "delivery_bytes": 330244,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "cd44faea76fcf14008f4e8af1acb58f5bf9c87f0b5bfbc11ed2976222b468187"
+    },
+    {
+      "slug": "hungry-puppies",
+      "asset": "quality/covers/hungry-puppies.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1899000,
+      "delivery_bytes": 502548,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "2a1263c25f7acf7dd33fe0ad9168b4b0b67b054862c9dccc690af41ee4b88999"
+    },
+    {
+      "slug": "integer-warp",
+      "asset": "quality/covers/integer-warp.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1988964,
+      "delivery_bytes": 480356,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "36f3b75af2ba40200eb756ad534a5807653199678c2c3d8dc4219debc1f16871"
+    },
+    {
+      "slug": "island-chase-subtraction",
+      "asset": "quality/covers/island-chase-subtraction.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 2002048,
+      "delivery_bytes": 523140,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "675d8472c08fa04ae9645ca41718cb670d9bbaedf6758a4464541790da44ac90"
+    },
+    {
+      "slug": "jet-ski-addition",
+      "asset": "quality/covers/jet-ski-addition.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1562352,
+      "delivery_bytes": 365838,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "cfb3ed0de5dec6ef91d47a18a64e609563ea2e03d4a482171b3d9488cad7c6ab"
+    },
+    {
+      "slug": "jumping-aliens",
+      "asset": "quality/covers/jumping-aliens.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1840694,
+      "delivery_bytes": 424464,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "78a07530e319d51e414e0500a8485fc27cee067876ecb460549e63dd6a6fa353"
+    },
+    {
+      "slug": "jumping-chicks",
+      "asset": "quality/covers/jumping-chicks.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1977760,
+      "delivery_bytes": 423564,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "0078fb88a395ff156e3d0b2ffeedbee8484327fd39b2bf8d02a4bc39e6d19eab"
+    },
+    {
+      "slug": "kangaroo-hop",
+      "asset": "quality/covers/kangaroo-hop.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2155276,
+      "delivery_bytes": 540736,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "9146a2efcaad877b37854b4ff088e8dd51309d34660788e367b8babd4b58920c"
+    },
+    {
+      "slug": "kitten-hop",
+      "asset": "quality/covers/kitten-hop.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1996064,
+      "delivery_bytes": 488758,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "e53f7c04abc72f4bf4bead43433e5919ed8b8dce97d598127daafc5423d9a96c"
+    },
+    {
+      "slug": "kitten-match",
+      "asset": "quality/covers/kitten-match.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1781290,
+      "delivery_bytes": 456266,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "63a1e0eb6165a67c87df886c66f62ced975afeb0c6d2d0368863ddd89422ea0f"
+    },
+    {
+      "slug": "koala-karts",
+      "asset": "quality/covers/koala-karts.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2056736,
+      "delivery_bytes": 521156,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "43bb20b7825fec9e741413add7826c43fcbc0804ccc75974ad0dbcb6574d37b8"
+    },
+    {
+      "slug": "koala-paddleboards",
+      "asset": "quality/covers/koala-paddleboards.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2344582,
+      "delivery_bytes": 643732,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "caadc76e91dac3005774dfa518fea2898738587dfa01c47aba3adc54fa18f4de"
+    },
+    {
+      "slug": "martian-hoverboards",
+      "asset": "quality/covers/martian-hoverboards.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1637328,
+      "delivery_bytes": 342772,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "495e100bd7d9277d7df390b6e87629549a148b03df17cc276ce3fc5f0ff809f6"
+    },
+    {
+      "slug": "meteor-multiplication",
+      "asset": "quality/covers/meteor-multiplication.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2124900,
+      "delivery_bytes": 520218,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "99dcd728680cbbd771a969d50f50658d4e6f04b4507aac2319efdb964efd224d"
+    },
+    {
+      "slug": "minus-mission",
+      "asset": "quality/covers/minus-mission.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1115490,
+      "delivery_bytes": 158726,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "1367c454778cbed2d13e497041a9c9e6b82f4805fe1b6491c7edeccc0a873d0a"
+    },
+    {
+      "slug": "octopus-feed",
+      "asset": "quality/covers/octopus-feed.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2102192,
+      "delivery_bytes": 521108,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "dd23e388e7cd054e9c311dc57b550d0cea7d23ef34cc8ef7cc4ec901993ecac6"
+    },
+    {
+      "slug": "orbit-integers",
+      "asset": "quality/covers/orbit-integers.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1881130,
+      "delivery_bytes": 424092,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "0d39484c4ec31c3c7bf501be0c9462ffeb698c6ba6f997c2a55664ecffb1640c"
+    },
+    {
+      "slug": "otter-rush",
+      "asset": "quality/covers/otter-rush.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2079006,
+      "delivery_bytes": 568182,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "672e80fa200bcd7b614385cb2030f8c9289b9da99a8aef26030eec5c5d30b926"
+    },
+    {
+      "slug": "owl-planes",
+      "asset": "quality/covers/owl-planes.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1763024,
+      "delivery_bytes": 390954,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "7f0ccb07fc6f948278fd77cee1eea707b20771be56fa0b49c85d4d277e1dd074"
+    },
+    {
+      "slug": "penguin-jump",
+      "asset": "quality/covers/penguin-jump.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1641638,
+      "delivery_bytes": 376278,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "c6e809507b29a0cf3b676dc68a1d68f42f78a6d359563752f1021845bbde7cc5"
+    },
+    {
+      "slug": "pony-division",
+      "asset": "quality/covers/pony-division.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 2336840,
+      "delivery_bytes": 642566,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "e35f0d25d255619d805cef6738b18df7531052edcff5728285bca72cf9a8c955"
+    },
+    {
+      "slug": "puppy-chase",
+      "asset": "quality/covers/puppy-chase.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2078702,
+      "delivery_bytes": 567608,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "efb820b88588f67832a4b8f01af5a1d9472868bcf632b8c0e0222aa40ce0e45e"
+    },
+    {
+      "slug": "puppy-hop",
+      "asset": "quality/covers/puppy-hop.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2115848,
+      "delivery_bytes": 513546,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "34895322e9c7e708c0f34ea222dfcda538b177cdfa09b08b8c8fe9ede2a006dd"
+    },
+    {
+      "slug": "puppy-pull",
+      "asset": "quality/covers/puppy-pull.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1962622,
+      "delivery_bytes": 526068,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "1ea87b46a42ef1dd5a07e3c219ac57a35298fcf281bfbb599751949bc409f857"
+    },
+    {
+      "slug": "ratio-blaster",
+      "asset": "quality/covers/ratio-blaster.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1474484,
+      "delivery_bytes": 252764,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "6b6ac38aad92a1575a22484c7e7140ecfcc631e9d6f37815116a0393f4c83614"
+    },
+    {
+      "slug": "ratio-martian",
+      "asset": "quality/covers/ratio-martian.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1826388,
+      "delivery_bytes": 406652,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "4ddae6ed3f6f11ad2e7a6778407015f899b6f348c161170782cc26e5da526b43"
+    },
+    {
+      "slug": "ratio-stadium",
+      "asset": "quality/covers/ratio-stadium.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1533364,
+      "delivery_bytes": 328160,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "55a83b9a1495c3b2ec6dffa4ad6a02149ec761c92091b8a8eb13ddb7a6dff069"
+    },
+    {
+      "slug": "sailboat-subtraction",
+      "asset": "quality/covers/sailboat-subtraction.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1779666,
+      "delivery_bytes": 415768,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "2991371e7ea615eba0552bd5ed0a9c98745db0a61763e88cdba176459590c95e"
+    },
+    {
+      "slug": "skateboard-pups",
+      "asset": "quality/covers/skateboard-pups.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1967086,
+      "delivery_bytes": 484498,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "4e3bd5312b0758fa20a1e35908a5464f7b65374ae6443ae035a8e5cf0a532d88"
+    },
+    {
+      "slug": "sky-chase",
+      "asset": "quality/covers/sky-chase.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1460174,
+      "delivery_bytes": 278844,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "4d0130a75cbb9221d0485986adf2e8a1893226cf975c78658389a6b2b99c19f6"
+    },
+    {
+      "slug": "snow-sprint",
+      "asset": "quality/covers/snow-sprint.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2013152,
+      "delivery_bytes": 588380,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "42b953906cb327f47515641a25d2b708c877b428cab326604d2f0c480cfd7456"
+    },
+    {
+      "slug": "space-jaunt",
+      "asset": "quality/covers/space-jaunt.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1545500,
+      "delivery_bytes": 257374,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "0f1f6c3dae4026ca1ef99106cd63e53c861b72c82293e3b03fcd060feb2ea2a2"
+    },
+    {
+      "slug": "space-race",
+      "asset": "quality/covers/space-race.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1414628,
+      "delivery_bytes": 211130,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "24392edf5678e3fb47aeea6f58f61c1c93b87596b945fd9aeba66f312f09e93c"
+    },
+    {
+      "slug": "speedway",
+      "asset": "quality/covers/speedway.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1697306,
+      "delivery_bytes": 407552,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "8a9d83cf5a9714ca5e43a0756399b7f90aca045095c0583df9232c722ef4c9a8"
+    },
+    {
+      "slug": "spider-match",
+      "asset": "quality/covers/spider-match.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 1770300,
+      "delivery_bytes": 379924,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "75553ad5b933f0d7887be6ca7b4468ad2f67f5fb3acaa8e009966906e61c3b41"
+    },
+    {
+      "slug": "swimming-otters",
+      "asset": "quality/covers/swimming-otters.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 1827496,
+      "delivery_bytes": 435914,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "595572f78f86a6ffb5063c7222cb1714051042980fe14364685a2c27f6044316"
+    },
+    {
+      "slug": "tandem-turtles",
+      "asset": "quality/covers/tandem-turtles.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2063092,
+      "delivery_bytes": 539910,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "fb63298b6c695cf51408ff4e38966463b3797a5ad6c2139d51978f0992a54c29"
+    },
+    {
+      "slug": "toad-hop",
+      "asset": "quality/covers/toad-hop.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2090746,
+      "delivery_bytes": 511530,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "d5ff7f0f608d27d81b824660964c8e95c14a19f70af97c7da1f898a04c69b9db"
+    },
+    {
+      "slug": "tractor-multiplication",
+      "asset": "quality/covers/tractor-multiplication.webp",
+      "width": 1586,
+      "height": 992,
+      "native_lossless_bytes": 2006012,
+      "delivery_bytes": 515088,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "3e813b541171ff19c9a52869f36d4e2f3148b67475fdc93080f38ed62ede082f"
+    },
+    {
+      "slug": "tugboat-addition",
+      "asset": "quality/covers/tugboat-addition.webp",
+      "width": 1585,
+      "height": 992,
+      "native_lossless_bytes": 2025672,
+      "delivery_bytes": 527030,
+      "encoding": "WebP quality 95; native dimensions; no resampling",
+      "sha256": "3b8d048ba7baf0f4e5a6cacabd752ca5b56697e78002a1befd529e83bfbb19e9"
+    }
+  ]
+}

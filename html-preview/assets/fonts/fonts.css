@@ -1,0 +1,15 @@
+/* Official Google Fonts distributions; license notices are bundled in this folder. */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200 1000;
+  font-display: swap;
+  src: url('./nunito-variable.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./noto-sans-arabic-variable.ttf') format('truetype');
+}

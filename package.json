@@ -1,0 +1,14 @@
+{
+  "name": "ibook-games-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "description": "iBOOK Games responsive HTML and Laravel redesign",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "test": "node scripts/verify.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

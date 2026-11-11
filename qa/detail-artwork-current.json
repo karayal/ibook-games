@@ -1,0 +1,62 @@
+[
+  {
+    "broken": 0,
+    "clipped": [],
+    "height": 844,
+    "overflow": false,
+    "page": "detail",
+    "posterHeight": 992,
+    "posterWidth": 1586,
+    "width": 320
+  },
+  {
+    "broken": 0,
+    "clipped": [],
+    "height": 844,
+    "overflow": false,
+    "page": "detail",
+    "posterHeight": 992,
+    "posterWidth": 1586,
+    "width": 390
+  },
+  {
+    "broken": 0,
+    "clipped": [],
+    "height": 615,
+    "overflow": false,
+    "page": "detail",
+    "posterHeight": 992,
+    "posterWidth": 1586,
+    "width": 714
+  },
+  {
+    "broken": 0,
+    "clipped": [],
+    "height": 1000,
+    "overflow": false,
+    "page": "detail",
+    "posterHeight": 992,
+    "posterWidth": 1586,
+    "width": 1024
+  },
+  {
+    "broken": 0,
+    "clipped": [],
+    "height": 1000,
+    "overflow": false,
+    "page": "detail",
+    "posterHeight": 992,
+    "posterWidth": 1586,
+    "width": 1440
+  },
+  {
+    "broken": 0,
+    "clipped": [],
+    "height": 1000,
+    "overflow": false,
+    "page": "detail",
+    "posterHeight": 992,
+    "posterWidth": 1586,
+    "width": 1920
+  }
+]

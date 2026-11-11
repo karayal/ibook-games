@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "2:12",
+    "name": "iBOOK Games logo",
+    "file": "012-ibook-games-logo.png",
+    "sourceCrop": {
+      "x": 154,
+      "y": 18,
+      "width": 70,
+      "height": 42
+    },
+    "figmaSize": {
+      "x": 117.75701141357422,
+      "y": 70.65420532226562
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 104.29906463623047,
+      "m10": 0,
+      "m11": 1,
+      "m12": 8.411214828491211
+    }
+  },
+  {
+    "id": "2:23",
+    "name": "Astronaut children, cat and planet artwork",
+    "file": "023-astronaut-children-cat-and-planet-artwork.png",
+    "sourceCrop": {
+      "x": 535,
+      "y": 65,
+      "width": 413,
+      "height": 313
+    },
+    "figmaSize": {
+      "x": 694.766357421875,
+      "y": 526.5420532226562
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:25",
+    "name": "Purple clouds",
+    "file": "025-purple-clouds.png",
+    "sourceCrop": {
+      "x": 93,
+      "y": 66,
+      "width": 126,
+      "height": 99
+    },
+    "figmaSize": {
+      "x": 211.96261596679688,
+      "y": 166.54205322265625
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:26",
+    "name": "iBOOK Games hero logo",
+    "file": "026-ibook-games-hero-logo.png",
+    "sourceCrop": {
+      "x": 224,
+      "y": 100,
+      "width": 152,
+      "height": 90
+    },
+    "figmaSize": {
+      "x": 255.700927734375,
+      "y": 151.40187072753906
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 222.0560760498047,
+      "m10": 0,
+      "m11": 1,
+      "m12": 58.878501892089844
+    }
+  },
+  {
+    "id": "2:34",
+    "name": "Game controller icon",
+    "file": "034-game-controller-icon.png",
+    "sourceCrop": {
+      "x": 189,
+      "y": 389,
+      "width": 26,
+      "height": 25
+    },
+    "figmaSize": {
+      "x": 43.738319396972656,
+      "y": 42.05607604980469
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 164.8598175048828,
+      "m10": 0,
+      "m11": 1,
+      "m12": 21.869173049926758
+    }
+  },
+  {
+    "id": "2:38",
+    "name": "Math icon",
+    "file": "038-math-icon.png",
+    "sourceCrop": {
+      "x": 233,
+      "y": 429,
+      "width": 36,
+      "height": 39
+    },
+    "figmaSize": {
+      "x": 67.28971862792969,
+      "y": 65.60747528076172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 57.196285247802734,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.457965850830078
+    }
+  },
+  {
+    "id": "2:41",
+    "name": "Multiplication icon",
+    "file": "041-multiplication-icon.png",
+    "sourceCrop": {
+      "x": 353,
+      "y": 432,
+      "width": 36,
+      "height": 35
+    },
+    "figmaSize": {
+      "x": 67.28971862792969,
+      "y": 65.60747528076172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 57.196311950683594,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.457965850830078
+    }
+  },
+  {
+    "id": "2:44",
+    "name": "Division icon",
+    "file": "044-division-icon.png",
+    "sourceCrop": {
+      "x": 474,
+      "y": 429,
+      "width": 36,
+      "height": 36
+    },
+    "figmaSize": {
+      "x": 67.28971862792969,
+      "y": 65.60747528076172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 57.19621658325195,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.457965850830078
+    }
+  },
+  {
+    "id": "2:47",
+    "name": "Fractions icon",
+    "file": "047-fractions-icon.png",
+    "sourceCrop": {
+      "x": 587,
+      "y": 428,
+      "width": 40,
+      "height": 41
+    },
+    "figmaSize": {
+      "x": 67.28971862792969,
+      "y": 65.60747528076172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 57.19612121582031,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.457965850830078
+    }
+  },
+  {
+    "id": "2:50",
+    "name": "Spelling icon",
+    "file": "050-spelling-icon.png",
+    "sourceCrop": {
+      "x": 705,
+      "y": 428,
+      "width": 44,
+      "height": 40
+    },
+    "figmaSize": {
+      "x": 67.28971862792969,
+      "y": 65.60747528076172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 57.19626998901367,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.457965850830078
+    }
+  },
+  {
+    "id": "2:53",
+    "name": "Typing icon",
+    "file": "053-typing-icon.png",
+    "sourceCrop": {
+      "x": 822,
+      "y": 432,
+      "width": 46,
+      "height": 32
+    },
+    "figmaSize": {
+      "x": 67.28971862792969,
+      "y": 65.60747528076172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 57.196414947509766,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.457965850830078
+    }
+  },
+  {
+    "id": "2:55",
+    "name": "Game controller icon",
+    "file": "055-game-controller-icon.png",
+    "sourceCrop": {
+      "x": 225,
+      "y": 527,
+      "width": 29,
+      "height": 27
+    },
+    "figmaSize": {
+      "x": 48.7850456237793,
+      "y": 45.42055892944336
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 222.0560760498047,
+      "m10": 0,
+      "m11": 1,
+      "m12": 8.41123104095459
+    }
+  },
+  {
+    "id": "2:60",
+    "name": "Replaceable cover \u2014 Grand Prix Multiplication",
+    "file": "060-replaceable-cover-grand-prix-multiplication.png",
+    "sourceCrop": {
+      "x": 224,
+      "y": 582,
+      "width": 167,
+      "height": 101
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:69",
+    "name": "Replaceable cover \u2014 Penguin Jump",
+    "file": "069-replaceable-cover-penguin-jump.png",
+    "sourceCrop": {
+      "x": 406,
+      "y": 582,
+      "width": 162,
+      "height": 101
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:78",
+    "name": "Replaceable cover \u2014 Space Race",
+    "file": "078-replaceable-cover-space-race.png",
+    "sourceCrop": {
+      "x": 581,
+      "y": 582,
+      "width": 163,
+      "height": 101
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:87",
+    "name": "Replaceable cover \u2014 Jet Ski Addition",
+    "file": "087-replaceable-cover-jet-ski-addition.png",
+    "sourceCrop": {
+      "x": 758,
+      "y": 582,
+      "width": 170,
+      "height": 101
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:96",
+    "name": "Replaceable cover \u2014 Pizza Pandas",
+    "file": "096-replaceable-cover-pizza-pandas.png",
+    "sourceCrop": {
+      "x": 224,
+      "y": 751,
+      "width": 167,
+      "height": 91
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:105",
+    "name": "Replaceable cover \u2014 Turtle Dash",
+    "file": "105-replaceable-cover-turtle-dash.png",
+    "sourceCrop": {
+      "x": 406,
+      "y": 751,
+      "width": 162,
+      "height": 91
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:114",
+    "name": "Replaceable cover \u2014 Spelling Bees",
+    "file": "114-replaceable-cover-spelling-bees.png",
+    "sourceCrop": {
+      "x": 581,
+      "y": 751,
+      "width": 163,
+      "height": 91
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:123",
+    "name": "Replaceable cover \u2014 Typing Jets",
+    "file": "123-replaceable-cover-typing-jets.png",
+    "sourceCrop": {
+      "x": 758,
+      "y": 751,
+      "width": 170,
+      "height": 91
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 169.9065399169922
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:131",
+    "name": "School building illustration",
+    "file": "131-school-building-illustration.png",
+    "sourceCrop": {
+      "x": 764,
+      "y": 909,
+      "width": 166,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 279.2523498535156,
+      "y": 107.6635513305664
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 921.869140625,
+      "m10": 0,
+      "m11": 1,
+      "m12": 3.878869756590575e-05
+    }
+  },
+  {
+    "id": "2:132",
+    "name": "Schoolhouse icon",
+    "file": "132-schoolhouse-icon.png",
+    "sourceCrop": {
+      "x": 239,
+      "y": 914,
+      "width": 60,
+      "height": 53
+    },
+    "figmaSize": {
+      "x": 100.93457794189453,
+      "y": 89.15888214111328
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 38.69157409667969,
+      "m10": 0,
+      "m11": 1,
+      "m12": 8.411253929138184
+    }
+  },
+  {
+    "id": "2:138",
+    "name": "iBOOK Games footer logo",
+    "file": "138-ibook-games-footer-logo.png",
+    "sourceCrop": {
+      "x": 155,
+      "y": 985,
+      "width": 49,
+      "height": 32
+    },
+    "figmaSize": {
+      "x": 82.4299087524414,
+      "y": 53.8317756652832
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 104.29906463623047,
+      "m10": 0,
+      "m11": 1,
+      "m12": 6.72892427444458
+    }
+  },
+  {
+    "id": "2:149",
+    "name": "iBOOK Games logo",
+    "file": "149-ibook-games-logo.png",
+    "sourceCrop": {
+      "x": 29,
+      "y": 510,
+      "width": 62,
+      "height": 33
+    },
+    "figmaSize": {
+      "x": 137.38636779785156,
+      "y": 73.125
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 33.2386360168457,
+      "m10": 0,
+      "m11": 1,
+      "m12": 64.26136016845703
+    }
+  },
+  {
+    "id": "2:171",
+    "name": "Math icon",
+    "file": "171-math-icon.png",
+    "sourceCrop": {
+      "x": 36,
+      "y": 785,
+      "width": 19,
+      "height": 23
+    },
+    "figmaSize": {
+      "x": 50.96590805053711,
+      "y": 55.397727966308594
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 33.238704681396484,
+      "m10": 0,
+      "m11": 1,
+      "m12": 6.647749423980713
+    }
+  },
+  {
+    "id": "2:174",
+    "name": "Multiplication icon",
+    "file": "174-multiplication-icon.png",
+    "sourceCrop": {
+      "x": 92,
+      "y": 785,
+      "width": 22,
+      "height": 23
+    },
+    "figmaSize": {
+      "x": 50.96590805053711,
+      "y": 55.397727966308594
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 33.2386360168457,
+      "m10": 0,
+      "m11": 1,
+      "m12": 6.647749423980713
+    }
+  },
+  {
+    "id": "2:177",
+    "name": "Division icon",
+    "file": "177-division-icon.png",
+    "sourceCrop": {
+      "x": 151,
+      "y": 785,
+      "width": 22,
+      "height": 23
+    },
+    "figmaSize": {
+      "x": 50.96590805053711,
+      "y": 55.397727966308594
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 33.23857116699219,
+      "m10": 0,
+      "m11": 1,
+      "m12": 6.647749423980713
+    }
+  },
+  {
+    "id": "2:185",
+    "name": "Replaceable cover \u2014 Penguin Jump",
+    "file": "185-replaceable-cover-penguin-jump.png",
+    "sourceCrop": {
+      "x": 23,
+      "y": 866,
+      "width": 65,
+      "height": 49
+    },
+    "figmaSize": {
+      "x": 144.03408813476562,
+      "y": 117.44318389892578
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:211",
+    "name": "iBOOK Games logo",
+    "file": "211-ibook-games-logo.png",
+    "sourceCrop": {
+      "x": 997,
+      "y": 17,
+      "width": 41,
+      "height": 25
+    },
+    "figmaSize": {
+      "x": 74.27536010742188,
+      "y": 45.28985595703125
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 48.91304397583008,
+      "m10": 0,
+      "m11": 1,
+      "m12": 7.246376991271973
+    }
+  },
+  {
+    "id": "2:237",
+    "name": "Controller and rocket banner artwork",
+    "file": "237-controller-and-rocket-banner-artwork.png",
+    "sourceCrop": {
+      "x": 1290,
+      "y": 46,
+      "width": 231,
+      "height": 70
+    },
+    "figmaSize": {
+      "x": 418.478271484375,
+      "y": 126.81159210205078
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 581.521728515625,
+      "m10": 0,
+      "m11": 1,
+      "m12": 6.634256237703084e-07
+    }
+  },
+  {
+    "id": "2:238",
+    "name": "Yellow gamepad artwork",
+    "file": "238-yellow-gamepad-artwork.png",
+    "sourceCrop": {
+      "x": 986,
+      "y": 57,
+      "width": 49,
+      "height": 48
+    },
+    "figmaSize": {
+      "x": 88.76811218261719,
+      "y": 86.9565200805664
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 30.797101974487305,
+      "m10": 0,
+      "m11": 1,
+      "m12": 18.115942001342773
+    }
+  },
+  {
+    "id": "2:323",
+    "name": "Replaceable cover \u2014 Grand Prix Multiplication",
+    "file": "323-replaceable-cover-grand-prix-multiplication.png",
+    "sourceCrop": {
+      "x": 1100,
+      "y": 184,
+      "width": 96,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:333",
+    "name": "Replaceable cover \u2014 Penguin Jump",
+    "file": "333-replaceable-cover-penguin-jump.png",
+    "sourceCrop": {
+      "x": 1207,
+      "y": 184,
+      "width": 95,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:343",
+    "name": "Replaceable cover \u2014 Space Race",
+    "file": "343-replaceable-cover-space-race.png",
+    "sourceCrop": {
+      "x": 1312,
+      "y": 184,
+      "width": 95,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:353",
+    "name": "Replaceable cover \u2014 Jet Ski Addition",
+    "file": "353-replaceable-cover-jet-ski-addition.png",
+    "sourceCrop": {
+      "x": 1419,
+      "y": 184,
+      "width": 94,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:363",
+    "name": "Replaceable cover \u2014 Pizza Pandas",
+    "file": "363-replaceable-cover-pizza-pandas.png",
+    "sourceCrop": {
+      "x": 1100,
+      "y": 311,
+      "width": 96,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:371",
+    "name": "Replaceable cover \u2014 Turtle Dash",
+    "file": "371-replaceable-cover-turtle-dash.png",
+    "sourceCrop": {
+      "x": 1207,
+      "y": 311,
+      "width": 95,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:379",
+    "name": "Replaceable cover \u2014 Spelling Bees",
+    "file": "379-replaceable-cover-spelling-bees.png",
+    "sourceCrop": {
+      "x": 1312,
+      "y": 311,
+      "width": 95,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:387",
+    "name": "Replaceable cover \u2014 Typing Jets",
+    "file": "387-replaceable-cover-typing-jets.png",
+    "sourceCrop": {
+      "x": 1419,
+      "y": 311,
+      "width": 94,
+      "height": 64
+    },
+    "figmaSize": {
+      "x": 173.9130401611328,
+      "y": 115.94203186035156
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:414",
+    "name": "iBOOK Games logo",
+    "file": "414-ibook-games-logo.png",
+    "sourceCrop": {
+      "x": 997,
+      "y": 17,
+      "width": 41,
+      "height": 25
+    },
+    "figmaSize": {
+      "x": 74.27536010742188,
+      "y": 45.28985595703125
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 48.91304397583008,
+      "m10": 0,
+      "m11": 1,
+      "m12": 7.246376991271973
+    }
+  },
+  {
+    "id": "2:444",
+    "name": "Penguin Jump avatar",
+    "file": "444-penguin-jump-avatar.png",
+    "sourceCrop": {
+      "x": 989,
+      "y": 570,
+      "width": 31,
+      "height": 28
+    },
+    "figmaSize": {
+      "x": 56.159420013427734,
+      "y": 50.72463607788086
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:458",
+    "name": "Penguin Jump game scene",
+    "file": "458-penguin-jump-game-scene.png",
+    "sourceCrop": {
+      "x": 989,
+      "y": 607,
+      "width": 339,
+      "height": 198
+    },
+    "figmaSize": {
+      "x": 614.1304321289062,
+      "y": 358.6956481933594
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:525",
+    "name": "Replaceable cover \u2014 Space Race",
+    "file": "525-replaceable-cover-space-race.png",
+    "sourceCrop": {
+      "x": 993,
+      "y": 909,
+      "width": 118,
+      "height": 57
+    },
+    "figmaSize": {
+      "x": 215.5797119140625,
+      "y": 103.26087188720703
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:531",
+    "name": "Replaceable cover \u2014 Turtle Dash",
+    "file": "531-replaceable-cover-turtle-dash.png",
+    "sourceCrop": {
+      "x": 1124,
+      "y": 909,
+      "width": 118,
+      "height": 57
+    },
+    "figmaSize": {
+      "x": 215.5797119140625,
+      "y": 103.26087188720703
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:537",
+    "name": "Replaceable cover \u2014 Grand Prix Multiplication",
+    "file": "537-replaceable-cover-grand-prix-multiplication.png",
+    "sourceCrop": {
+      "x": 1255,
+      "y": 909,
+      "width": 118,
+      "height": 57
+    },
+    "figmaSize": {
+      "x": 215.5797119140625,
+      "y": 103.26087188720703
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:543",
+    "name": "Replaceable cover \u2014 Jet Ski Addition",
+    "file": "543-replaceable-cover-jet-ski-addition.png",
+    "sourceCrop": {
+      "x": 1386,
+      "y": 909,
+      "width": 118,
+      "height": 57
+    },
+    "figmaSize": {
+      "x": 215.5797119140625,
+      "y": 103.26087188720703
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  },
+  {
+    "id": "2:550",
+    "name": "Continuous purple landscape",
+    "file": "550-continuous-purple-landscape.png",
+    "sourceCrop": {
+      "x": 92,
+      "y": 345,
+      "width": 856,
+      "height": 33
+    },
+    "figmaSize": {
+      "x": 1440,
+      "y": 55.51401901245117
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 7.62939453125e-06
+    }
+  },
+  {
+    "id": "2:573",
+    "name": "Explore Games \u2304 icon",
+    "file": "573-explore-games-icon.png",
+    "sourceCrop": {
+      "x": 363,
+      "y": 33,
+      "width": 14,
+      "height": 12
+    },
+    "figmaSize": {
+      "x": 21.869159698486328,
+      "y": 20.18691635131836
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 452.52337646484375,
+      "m10": 0,
+      "m11": 1,
+      "m12": 33.644859313964844
+    }
+  },
+  {
+    "id": "2:574",
+    "name": "Subjects \u2304 icon",
+    "file": "574-subjects-icon.png",
+    "sourceCrop": {
+      "x": 486,
+      "y": 33,
+      "width": 14,
+      "height": 12
+    },
+    "figmaSize": {
+      "x": 21.869159698486328,
+      "y": 20.18691635131836
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 661.1215209960938,
+      "m10": 0,
+      "m11": 1,
+      "m12": 33.644859313964844
+    }
+  },
+  {
+    "id": "2:575",
+    "name": "Grades \u2304 icon",
+    "file": "575-grades-icon.png",
+    "sourceCrop": {
+      "x": 583,
+      "y": 33,
+      "width": 15,
+      "height": 12
+    },
+    "figmaSize": {
+      "x": 21.869159698486328,
+      "y": 20.18691635131836
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 825.9813232421875,
+      "m10": 0,
+      "m11": 1,
+      "m12": 33.644859313964844
+    }
+  },
+  {
+    "id": "2:576",
+    "name": "For Schools icon",
+    "file": "576-for-schools-icon.png",
+    "sourceCrop": {
+      "x": 672,
+      "y": 31,
+      "width": 16,
+      "height": 15
+    },
+    "figmaSize": {
+      "x": 21.869159698486328,
+      "y": 20.18691635131836
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 975.700927734375,
+      "m10": 0,
+      "m11": 1,
+      "m12": 33.644859313964844
+    }
+  },
+  {
+    "id": "2:577",
+    "name": "Home icon",
+    "file": "577-home-icon.png",
+    "sourceCrop": {
+      "x": 289,
+      "y": 31,
+      "width": 13,
+      "height": 14
+    },
+    "figmaSize": {
+      "x": 21.869159698486328,
+      "y": 21.869159698486328
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 15.14018726348877,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.4579439163208
+    }
+  },
+  {
+    "id": "2:578",
+    "name": "Account icon",
+    "file": "578-account-icon.png",
+    "sourceCrop": {
+      "x": 869,
+      "y": 31,
+      "width": 13,
+      "height": 14
+    },
+    "figmaSize": {
+      "x": 21.869159698486328,
+      "y": 21.869159698486328
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 15.14018726348877,
+      "m10": 0,
+      "m11": 1,
+      "m12": 13.4579439163208
+    }
+  },
+  {
+    "id": "2:579",
+    "name": "Continuous mobile space illustration",
+    "file": "579-continuous-mobile-space-illustration.png",
+    "sourceCrop": {
+      "x": 14,
+      "y": 548,
+      "width": 176,
+      "height": 61
+    },
+    "figmaSize": {
+      "x": 390,
+      "y": 135.1704559326172
+    },
+    "figmaTransform": {
+      "m00": 1,
+      "m01": 0,
+      "m02": 0,
+      "m10": 0,
+      "m11": 1,
+      "m12": 0
+    }
+  }
+]

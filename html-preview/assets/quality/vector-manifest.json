@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "format": "SVG",
+  "background": "Transparent canvas; wordmark GAMES white pill is part of the supplied brand mark",
+  "source": "Reconstructed from supplied Figma image crops as crisp native vector UI assets; no generated raster placeholders",
+  "assets": [
+    {
+      "file": "icons/subject-multiply.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/hero-plus.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/subject-divide.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/subject-calculator.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/subject-fraction.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/subject-spelling.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/subject-typing.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/controller.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "icons/school-icon.svg",
+      "viewBox": "0 0 128 128",
+      "type": "icon",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "brand/nav-logo.svg",
+      "viewBox": "0 0 320 190",
+      "type": "brand",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    },
+    {
+      "file": "brand/hero-logo.svg",
+      "viewBox": "0 0 320 190",
+      "type": "brand",
+      "notes": "Self-contained gradients, vector shapes and optional soft object shadow; no background rectangle"
+    }
+  ]
+}

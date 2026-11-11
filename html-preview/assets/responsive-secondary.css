@@ -1,0 +1,190 @@
+/* Fluid supporting pages. Imported after the common responsive layout. */
+.inner-banner {
+  padding-block: clamp(2rem, 4vw, 3.75rem);
+  padding-inline: max(var(--page-gutter, clamp(1rem, 4vw, 3.75rem)), calc((100% - 1320px) / 2));
+}
+.inner-banner h1 {
+  max-width: 25ch;
+  font-size: clamp(1.875rem, 3.35vw, 3rem);
+  line-height: 1.2;
+  letter-spacing: -.025em;
+  overflow-wrap: break-word;
+}
+.inner-banner p {
+  max-width: 60ch;
+  margin-top: .625rem;
+  font-size: clamp(1rem, 1.6vw, 1.375rem);
+  line-height: 1.5;
+}
+.content-page {
+  width: min(calc(100% - 2 * var(--page-gutter, clamp(1rem, 4vw, 3.75rem))), 1320px);
+  max-width: 1320px;
+  min-height: 0;
+  margin: clamp(1.5rem, 3vw, 3rem) auto clamp(2.5rem, 5vw, 5rem);
+}
+.all-subjects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11.5rem), 1fr));
+  gap: clamp(.75rem, 1.5vw, 1.375rem);
+}
+.all-subjects .subject-tile {
+  min-width: 0;
+  min-height: clamp(8rem, 11.5vw, 10rem);
+  height: auto;
+  padding: clamp(.75rem, 1.25vw, 1.25rem) .5rem;
+}
+.all-subjects .subject-art {
+  height: clamp(3.25rem, 5vw, 4.375rem);
+}
+.all-subjects .subject-art img {
+  width: clamp(3rem, 5vw, 4.375rem);
+  height: clamp(3rem, 4.7vw, 4.0625rem);
+}
+.all-subjects .subject-tile strong {
+  max-width: 100%;
+  font-size: clamp(.9375rem, 1.3vw, 1.25rem);
+  line-height: 1.3;
+  letter-spacing: -.02em;
+  overflow-wrap: break-word;
+}
+.grade-grid {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: clamp(.625rem, 1.5vw, 1.25rem);
+}
+.grade-tile {
+  min-width: 0;
+  gap: clamp(.5rem, 1vw, .75rem);
+  padding: clamp(.875rem, 1.5vw, 1.5rem) .5rem;
+  border-radius: clamp(1rem, 1.8vw, 1.5625rem);
+}
+.grade-tile > span { font-size: clamp(2rem, 3.2vw, 2.8125rem); }
+.grade-tile strong { font-size: clamp(.9375rem, 1.35vw, 1.125rem); }
+.notice-panel {
+  margin-top: clamp(1.5rem, 3vw, 2.25rem);
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  border-radius: clamp(1.25rem, 2vw, 1.625rem);
+}
+.notice-panel h2 {
+  display: block;
+  font-size: clamp(1.375rem, 2.2vw, 1.875rem);
+  line-height: 1.35;
+}
+.notice-panel h2 .icon {
+  display: inline-block;
+  margin-inline-end: .4em;
+  vertical-align: -.1em;
+}
+.notice-panel p {
+  max-width: 70ch;
+  font-size: clamp(1rem, 1.35vw, 1.125rem);
+  line-height: 1.65;
+}
+.notice-panel .button {
+  max-width: 100%;
+  min-height: 44px;
+  padding: .8125rem 1.125rem;
+  font-size: 1rem;
+  white-space: normal;
+}
+.feature-panels {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: clamp(1rem, 2vw, 1.5625rem);
+  align-items: stretch;
+}
+.feature-panels .info-card { min-width: 0; padding: clamp(1.375rem, 2.5vw, 2rem); }
+.feature-panels h2 { font-size: clamp(1.25rem, 1.8vw, 1.5rem); line-height: 1.3; }
+.feature-panels p { font-size: clamp(1rem, 1.3vw, 1.125rem); line-height: 1.6; }
+.prose {
+  max-width: 54rem;
+  font-size: clamp(1.0625rem, 1.4vw, 1.3125rem);
+  line-height: 1.75;
+}
+.prose h2 { font-size: clamp(1.625rem, 2.4vw, 2.125rem); line-height: 1.3; }
+.prose .button { max-width: 100%; white-space: normal; font-size: 1rem; }
+.login-page {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  max-width: 1100px;
+  min-height: 0;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: center;
+}
+.login-art { display: block; min-width: 0; }
+.account-panel { min-width: 0; padding: clamp(1.375rem, 3vw, 2.5rem); }
+.account-panel h1 { font-size: clamp(1.875rem, 3vw, 2.625rem); line-height: 1.25; }
+.account-panel > p { font-size: clamp(1.0625rem, 1.45vw, 1.25rem); line-height: 1.5; }
+.account-panel .button { max-width: 100%; min-height: 48px; font-size: 1rem; white-space: normal; }
+.account-panel .inline-notice p { min-width: 0; font-size: .9375rem; line-height: 1.6; }
+.contact-page { max-width: 48rem; }
+.contact-page .info-card { min-width: 0; padding: clamp(1.25rem, 3vw, 2.25rem); }
+.contact-page h2 { font-size: clamp(1.625rem, 2.2vw, 1.875rem); line-height: 1.3; }
+.contact-page .info-card p { font-size: clamp(1rem, 1.3vw, 1.125rem); line-height: 1.6; }
+.contact-page label { min-width: 0; font-size: 1rem; }
+.contact-page input, .contact-page textarea { font-size: 1rem; max-width: 100%; }
+.contact-page textarea { min-height: 10rem; }
+.contact-page form .button { min-height: 48px; max-width: 100%; font-size: 1rem; white-space: normal; }
+
+/* One readable footer scale across the homepage and catalog/detail routes. */
+.site-shell > .footer {
+  display: grid;
+  grid-template-columns: auto minmax(10rem, 1fr) minmax(19rem, 2fr) auto;
+  align-items: center;
+  gap: 1.5rem;
+  min-height: 0;
+  margin-top: 0;
+  padding-block: clamp(1rem, 1.75vw, 1.5rem);
+  padding-inline: max(var(--page-gutter, clamp(1rem, 4vw, 3.75rem)), calc((100% - 1320px) / 2));
+  font-size: .875rem;
+}
+.site-shell > .footer .brand img { width: 88px; height: 52px; }
+.site-shell > .footer > p {
+  min-width: 0;
+  margin: 0;
+  padding-inline-start: 1.5rem;
+  font-size: .875rem;
+  line-height: 1.5;
+}
+.site-shell > .footer .footer-links { min-width: 0; margin: 0; }
+.site-shell > .footer .footer-links strong { font-size: .9375rem; line-height: 1.4; }
+.site-shell > .footer .footer-links nav {
+  gap: .375rem 1rem;
+  margin-top: .375rem;
+  font-size: .875rem;
+  line-height: 1.5;
+}
+.site-shell > .footer .footer-links a { display: inline-flex; align-items: center; min-height: 28px; }
+.site-shell > .footer .footer-favorite {
+  display: inline-flex;
+  min-width: 0;
+  min-height: 40px;
+  gap: .4rem;
+  font-size: .875rem;
+  white-space: normal;
+}
+
+@media (600px <= width < 1024px) {
+  .all-subjects { grid-template-columns: repeat(auto-fit, minmax(min(100%, 9.5rem), 1fr)); }
+  .grade-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+@media (width < 1024px) {
+  .site-shell > .footer { grid-template-columns: auto minmax(0, 1fr); gap: 1rem 1.5rem; }
+  .site-shell > .footer .footer-links, .site-shell > .footer .footer-favorite { grid-column: 1 / -1; }
+}
+@media (width < 900px) {
+  .login-page { grid-template-columns: minmax(0, 1fr); max-width: 34rem; }
+  .login-art { display: none; }
+}
+@media (width < 600px) {
+  .all-subjects { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem .625rem; }
+  .all-subjects .subject-tile { min-height: 8rem; padding: .875rem .375rem; }
+  .all-subjects .subject-tile strong { font-size: .875rem; line-height: 1.3; }
+  .all-subjects .subject-art { height: 3.25rem; }
+  .all-subjects .subject-art img { width: 3rem; height: 3rem; }
+  .grade-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .grade-tile { padding: 1rem .375rem; }
+  .feature-panels { grid-template-columns: minmax(0, 1fr); }
+  .site-shell > .footer { gap: 1rem; }
+  .site-shell > .footer > p { padding-inline-start: 1rem; font-size: .8125rem; }
+  .site-shell > .footer .footer-links nav { gap: .25rem 1rem; }
+  .site-shell > .footer .footer-links a { min-height: 36px; }
+}

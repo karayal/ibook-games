@@ -1,0 +1,50 @@
+/* High-resolution interface artwork. The supplied game cover files are unchanged. */
+.brand img,.hero-logo{filter:none;mix-blend-mode:normal}
+.subject-art img,.school-icon,.banner-controller{mix-blend-mode:normal}
+.subject-art img{object-fit:contain;image-rendering:auto}
+.subject-art{overflow:visible}
+.hero{--hero-fade-depth:clamp(150px,16vw,245px)}
+.hero-scenery{
+  inset:0;width:100%;height:100%;aspect-ratio:auto;
+  background:url('./quality/hero-desktop.webp') right center/cover no-repeat;
+  mask-image:none;
+}
+.hero-cloud,.hero-landscape{display:none}
+.hero-copy{z-index:1}
+.hero:before{
+  content:'';position:absolute;inset:0 0 auto;
+  height:var(--hero-fade-depth);z-index:0;pointer-events:none;mask-image:none;
+  background:linear-gradient(to bottom,rgba(101,29,157,.94),rgba(101,29,157,.64) 36%,rgba(101,29,157,.20) 74%,transparent);
+}
+.floating-plus{background-image:url('./quality/icons/hero-plus.svg');clip-path:none}
+.banner-art{
+  background-image:url('./quality/catalog-banner.webp');
+  background-position:center;background-size:cover;
+}
+.school-art{object-fit:cover;object-position:center}
+.login-art{background-image:url('./quality/hero-desktop.webp');background-size:cover;background-position:right center}
+.detail-heading h1 img{object-position:50% 34%}
+.stage-poster{image-rendering:auto}
+.penguin-stage .stage-play{
+  width:72px;height:72px;border:3px solid white;background:#007ca4b3;
+  box-shadow:0 3px 15px #14394852;backdrop-filter:blur(2px);
+}
+.penguin-stage .stage-play .play-triangle{display:block}
+.penguin-stage .stage-play:hover{background:#ed2098;box-shadow:0 3px 15px #14394852}
+.stage-label,.penguin-stage .stage-label{
+  top:12px;bottom:auto;inset-inline-start:auto;inset-inline-end:12px;
+}
+html[dir=rtl] .hero-scenery{inset:0;width:100%;height:100%;aspect-ratio:auto}
+@media(600px <= width < 900px){
+  .hero-scenery{inset:0;width:100%;height:100%;aspect-ratio:auto}
+}
+@media(width < 600px){
+  .hero{--mobile-art-height:clamp(106px,33.333vw,200px);--hero-fade-depth:clamp(100px,33vw,155px)}
+  .hero-scenery{display:none}
+  .mobile-hero-art{
+    background:url('./quality/hero-mobile.webp') center/cover no-repeat;
+    mask-image:linear-gradient(to bottom,#000 0%,#000 72%,transparent 100%);
+  }
+  .hero:before{display:block}
+  .penguin-stage .stage-play{width:54px;height:54px;border-width:2px}
+}

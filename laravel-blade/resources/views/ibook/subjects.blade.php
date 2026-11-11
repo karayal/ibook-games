@@ -1,0 +1,6 @@
+@extends('ibook.layouts.app')
+@section('title', 'Subjects')
+@section('content')
+@php($subjects=['Shapes'=>'🔷','Counting'=>'🔟','Addition'=>'➕','Subtraction'=>'➖','Multiplication'=>'✖️','Division'=>'➗','Integers'=>'🔢','Money'=>'🪙','Time'=>'🕒','Decimals'=>'0.1','Fractions'=>'🥧','Ratio & Proportion'=>'⚖️','Algebra'=>'𝑥²','Language'=>'🔠','Arts'=>'🎨','Spelling'=>'🔤','Typing'=>'⌨️','Geography'=>'🌍'])
+<section class="page-banner"><div class="container"><span class="tiny-label">📚 CHOOSE YOUR SKILL</span><h1>Explore by Subject</h1><p>Find playful challenges by subject.</p></div></section><section class="container section"><div class="section-head"><div><h2>🎨 Find Your Favorite Subject</h2><p>Choose a topic to view the current matching titles.</p></div></div><div class="categories-page-grid">@foreach($subjects as $name=>$icon)<a class="category-long" href="{{ route('ibook.games.index',['subject'=>$name]) }}"><span>{{ $icon }}</span><div><strong>{{ $name }}</strong><small>{{ $games->where('subject',$name)->count() }} titles currently mapped</small></div><b>↗</b></a>@endforeach</div><p class="data-note">Individual subject assignments are inferred from game names for this prototype. Validate with your database before launch.</p></section>
+@endsection
